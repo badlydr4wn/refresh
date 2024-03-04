@@ -1,4 +1,8 @@
-.nav a{
+body {
+  background-color: rgb(32, 32, 32);
+}
+
+.section-body, .section-header, p, h1, h2, h3, h4, h5, h6 {
   color: rgb(233, 233, 233);
   background-color: rgb(32, 32, 32);
 }
